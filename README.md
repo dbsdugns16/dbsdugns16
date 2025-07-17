@@ -49,7 +49,7 @@
 <a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
 </div>  
 
-
+</td><td valign="top" width="33%">
 
 ### Database  
 <div align="center">  
